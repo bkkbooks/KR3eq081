@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3eq081/v1
+canonical_location: https://kanripo.org/bkk/KR3eq081/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 士諤醫話
+  identifiers:
+    krp: KR3eq081
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq081.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq081_000.yaml, hash: 'sha256:b72694bc80b81adb1bad4a1f55ea792b820deaa244ec60f23b0447533832b0f9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq081_000.markers.yaml, hash: 'sha256:e7f928891dd03dc91879d23f221c1ea65d64c20aa1273aac2c7a483d5333e8fd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq081_jc_000-d6.h1s1
+    span:
+    - body
+    - 0
+    - 40568
+  label: 士諤醫話一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq081_jc_000-d7.h1s1
+    span:
+    - body
+    - 40568
+    - 86927
+  label: 士諤醫話二
+  type: section
+  level: 1
+hash: sha256:49e9d987d2e2711a88d0c634709733419c54e6a5900bd3fda9ae143d5a247090
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
