@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq081_000.yaml, hash: 'sha256:fa3d4c7252b4136fb18c0c183e9e80d24f8582dc1efc665565d2e846ab848aa6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq081_000.markers.yaml, hash: 'sha256:0472f69b916a2ab45be2afd9e27b61d134d3c78edaea9f772bbcbfcbacda6774'}
+  - {seq: 0, role: markers, filename: assets/KR3eq081_000.markers.yaml, hash: 'sha256:aca44b56a5131e12b1bf92e432f3ea1ec050e2aa60bb028ad19c71290a8a312a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -40,7 +40,7 @@ table_of_contents:
   label: 士諤醫話二
   type: section
   level: 1
-hash: sha256:a9903775d9f82969ffe594e7cdaeabcab357f1b381abf8a228c405091bd0d7ce
+hash: sha256:04bc2b9a078a8f2479f336bc3f79f3472d3b5ea7ebb58ba5770f6009560d2b73
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

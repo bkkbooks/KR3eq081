@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq081_000-jc.yaml, hash: 'sha256:4c4274de7ea9903091eeaf3715b654dbf9a24bb19fe95bbd3028f2e6059b03ac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq081_000-jc.markers.yaml, hash: 'sha256:3d9599eaf9dd03decc04afd4f7bbecba7c242d45a540726b20b86ec37eca676a'}
+  - {seq: 0, role: markers, filename: assets/KR3eq081_000-jc.markers.yaml, hash: 'sha256:43850eef8f39c33085f36d90d5107b9da8d408ed175c2f8b60f47460cba05b75'}
 table_of_contents:
 - ref:
     seq: 0
@@ -40,4 +40,4 @@ table_of_contents:
   label: 士諤醫話二
   type: section
   level: 1
-hash: sha256:9bd22c0434d5521b40abfa2e1d11556f35bc2c01635d2d8dbc091d5dbbc7bc09
+hash: sha256:942ca51d729486f65f6d8a45108f74809ada2047d830053ff67ccae4128036b9
